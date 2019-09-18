@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "394431083928",
+    "firebase_url": "https://auxmatt-2c8db.firebaseio.com",
+    "project_id": "auxmatt-2c8db",
+    "storage_bucket": "auxmatt-2c8db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394431083928:android:1ad5c4661376271d",
+        "android_client_info": {
+          "package_name": "bo.edu.fni.fni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394431083928-vhj1gqtafih2h676sas4rab5ntbcse0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr2Nqjds3AFw_RXsw9DI55r_gNXPsKQ3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394431083928-vhj1gqtafih2h676sas4rab5ntbcse0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394431083928:android:ca4e84748aac2f4d30a7ed",
+        "android_client_info": {
+          "package_name": "com.estrelladelsur.appandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394431083928-vhj1gqtafih2h676sas4rab5ntbcse0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr2Nqjds3AFw_RXsw9DI55r_gNXPsKQ3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394431083928-vhj1gqtafih2h676sas4rab5ntbcse0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394431083928:android:d733e18ee3bf911530a7ed",
+        "android_client_info": {
+          "package_name": "com.matt2393.fcmrest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394431083928-vhj1gqtafih2h676sas4rab5ntbcse0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr2Nqjds3AFw_RXsw9DI55r_gNXPsKQ3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394431083928-vhj1gqtafih2h676sas4rab5ntbcse0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
